@@ -1,0 +1,50 @@
+body{
+	font-family: 'Slabo 27px', serif !important;
+	color:#333 !important;
+	letter-spacing: 0.15em;
+
+}
+
+.tiny{font-size: 0.7em;}
+
+.teal_2x{background-color: #35b8b0 !important; color:#fff !important;}
+
+.blau{background-color: #8d91eb !important; color:#fff !important;}
+
+.crimson{background-color: #e32636 !important; color:#fff !important;}
+
+.amber{background-color: #ffbf00 !important; color:#333 !important;}
+
+.android_green{background-color: #a4c639 !important; color:#333 !important;}
+
+.baby_blue{background-color: #21abcd !important; color:#fff !important;}
+
+.cobalt{background-color: #0047ab !important; color:#fff !important;}
+
+.cool_black{background-color: #002e63 !important; color:#fff !important;}
+
+.coquelicot{background-color: #ff3800 !important; color:#fff !important;}
+
+.light_green{background-color: #88ff57 !important; color:#333 !important;}
+
+.blue{background-color: #018bee !important; color:#fff !important;}
+
+.purple{background-color: #7101ee !important; color:#fff !important;}
+
+.pink{background-color: #ee01e5 !important; color:#fff !important;}
+
+.red{background-color: #fe003d !important; color:#fff !important;}
+
+.orange{background-color: #fe6b00 !important; color:#fff !important;}
+
+.skyblue{background-color: #00bfff !important; color:#333 !important;}
+
+.emerald{background-color: #50c878 !important; color:#333 !important;}
+
+.gold{background-color: #ffd700 !important; color:#333 !important;}
+
+.gray{background-color: #87949c !important; color:#fff !important;}
+
+.faint_blue{background-color: #b6daf1 !important; color:#333 !important;}
+
+.cleardiv{clear: both;}
